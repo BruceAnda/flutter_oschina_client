@@ -1,6 +1,6 @@
 # flutter_oschina_client
 
-A new Flutter project.
+计划使用flutter高仿OSChina客户端，学习flutter技术的使用。
 
 ## Getting Started
 
